@@ -9,4 +9,7 @@ public class MainClass {
 		System.out.println("Git is awesome!");
 	}
 
+	public void arbitraryMethod() {
+		System.out.println("here is a new method");
+	}
 }
